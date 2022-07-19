@@ -1,0 +1,59 @@
+Login Functionality 
+
+As it is mentioned in requirement list that the user will be logged in even,if he/she will close the app. 
+In that case could they use the same e-mail address to login to anyother mode?
+would they see themselves logged in?(LG:- yes, they should themselves logged into the application)
+which kind of message will appear if they try to login to the other mode?
+
+
+Sign up for new account functionality
+
+Asumption I could see e-mail password feids but there is no first name and last name feild.
+
+After clicking on Sign up for new account which page will appear?(LG:- login page) 
+
+After login which page will appear?(LG:- landing page)
+After clicking on (LoginNow link) will that Login Now Link will be still there?(LG:- no that link will replaced by Input box for entering username  and  password  and a submit button)
+
+ 
+ Negative Scenario for login functionality                                       
+ 
+ What if the user will put the wrong email address which message will apppear?( LG :- Invalid credentials.  Please enter the correct credentials)
+ What if the user will put the wrong password which message will apppear?(LG:- Invalid  credentials. Please enter the correct credentials)
+ 
+ Forgot Password Functionality
+ 
+ After clicking on forgot password?
+ In this page when user will enter the e-mail address and when user will click mon send OTP ....What message will appear on that page? 
+ (LG:- In case of invalid email. The user should still see a success message " OTP has been sent". This is because we want to keep the hackers  away)
+ How long do they have to wait for the OTP?( LG :- OTP has to be sent instantly . So they should get it immediately)
+ Will that OTP link will disappear after clicking the link?
+ 
+ OTP Functionality
+ 
+ After clicking on send OTP When OTP.Page will appear what if user will put one wrong number by mistake and clicks on blue Tick.
+ what kind of message will he/she receive?
+ How user will see the OTP page once again and how long will that OTP will take to come?
+ 
+ 	Reset Password
+•	What if user will enter correct (Enter New Password) and incorrect confirm password and user will clicks on Submit Button what message will come?
+•	What if user will enter incorrect (Enter New Password) and correct confirm password and user will clicks on Submit Button what message will come?
+•	What if user will put correct New Password and correct confirm password which message will appear?
+
+	Assumption I could see e-mail password fields but there is no first name and last name field.
+	One more thing I wanted to ask…… The OTP will be with alphabetic or numbers and I am assuming it will be four digits as I could see the four boxes.
+
+
+
+first Nmae compulsery
+Middle name not compulsery
+Last name compulsery
+e-mail compulsery and should be more than 18
+date of birth 18 plus compulsery
+password confirm password compulsery and it should be same minimum 8 character with 1 upper min lower case 1 special character 1 number
+
+
+ 
+ 
+ 
+ 
